@@ -40,9 +40,10 @@ with open(a,'r') as f:
                 count[word]+=1
 print(count)
 f.close()
-
+```
 
 ### OUTPUT:
+
 # TEXT FILE:
 ![Screenshot from 2023-01-26 16-45-32](https://user-images.githubusercontent.com/118042624/214823019-ee03a2ae-57e3-4c1a-a0e5-c5b11e8863d5.png)
 ![Screenshot from 2023-01-26 16-44-24](https://user-images.githubusercontent.com/118042624/214823074-e8060556-489c-470d-9f9a-c128a45c38f9.png)
